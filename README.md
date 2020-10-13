@@ -4,4 +4,4 @@
 # Leandro Rocha, rm84378
 # Leticia Bora, 82071
 # Renan Miyamoto, rm81348
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StoneHg/IA2.git/dev)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StoneHg/IA2/main)
